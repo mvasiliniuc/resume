@@ -1,0 +1,655 @@
+{
+  "picture": {
+    "hidden": false,
+    "fit": "cover",
+    "url": "https://rxresu.me/api/uploads/01a130f9-1ad6-755d-851a-9f86923ee452/pictures/33977eb8-af1e-4ea1-86f0-1df48e6c8b14.jpeg",
+    "size": 80,
+    "rotation": 0,
+    "aspectRatio": 1,
+    "borderRadius": 0,
+    "borderColor": "rgba(0, 0, 0, 0.5)",
+    "borderWidth": 0,
+    "shadowColor": "rgba(0, 0, 0, 0.5)",
+    "shadowWidth": 0
+  },
+  "basics": {
+    "name": "Mircea Vasiliniuc",
+    "headline": "Software Engineering Manager | Lead Mobile Engineer",
+    "email": "hello@mircea.app",
+    "phone": "+40745652950",
+    "location": "Valencia, Spain",
+    "website": {
+      "url": "https://mircea.app",
+      "label": ""
+    },
+    "customFields": [
+      {
+        "id": "01a20a44-e3b4-74fa-8173-51891912f2d5",
+        "icon": "linkedin-logo",
+        "text": "linkedIn",
+        "link": "https://www.linkedin.com/in/mirceavasiliniuc/"
+      }
+    ]
+  },
+  "summary": {
+    "title": "",
+    "icon": "article",
+    "columns": 1,
+    "hidden": false,
+    "showHeading": true,
+    "keepTogether": false,
+    "startOnNewPage": false,
+    "content": "<p data-resume-whitespace=\"preserve\">I'm a product-oriented engineering leader, a long-time promoter of automation, professional growth, and team coordination. My previous roles include department manager, software engineering manager, delivery manager, lead mobile engineer, technical consultant, co-founder, and mentor. Most of my experience is in the financial sector and consumer technology.</p><p data-resume-whitespace=\"preserve\">My latest leadership role involved building a mobile department from the ground up, growing it to 34 specialists while delivering banking and trading mobile apps used by more than 1.5 million people. My current focus is on adapting AI-driven workflows within constrained development ecosystems.</p><p data-resume-whitespace=\"preserve\">What I'm interested in:</p><ul><li><p data-resume-whitespace=\"preserve\">Digital transformation initiatives.</p></li><li><p data-resume-whitespace=\"preserve\">Building and leading highly specialized teams.</p></li><li><p data-resume-whitespace=\"preserve\">Complex ecosystems, whether in technology, stakeholder management, operations, or market dynamics.</p></li><li><p data-resume-whitespace=\"preserve\">Designing automation while preserving human agency and system integrity (Harness Engineering).</p></li></ul>"
+  },
+  "sections": {
+    "profiles": {
+      "title": "",
+      "icon": "messenger-logo",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "experience": {
+      "title": "",
+      "icon": "briefcase",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "01a130fd-74b4-77be-9dd3-4f8489c0570e",
+          "hidden": false,
+          "company": "iGama Apps",
+          "position": "Technical Consultant",
+          "location": "Valencia, Spain",
+          "period": "Oct 2025 – Present",
+          "dates": {
+            "start": "2025-10",
+            "end": null,
+            "present": true
+          },
+          "website": {
+            "url": "https://www.igamaapps.com",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p data-resume-whitespace=\"preserve\">Build MCP servers that expose regulations and mobile security guidelines for banking and trading software development, such as customized PSD2/SCA and OWASP MASVS with extra control groups.</p></li><li><p data-resume-whitespace=\"preserve\">Build agentic safety execution gates, such as a Python policy engine that restricts changes to sensitive project areas like code signing.</p></li><li><p data-resume-whitespace=\"preserve\">Create agentic skills that support mobile development, covering security review, mock generation for platform frameworks such as PassKit, and business-to-code alignment review.</p></li><li><p data-resume-whitespace=\"preserve\">Consult on the technical recruitment of mobile developers for partner companies.</p></li></ul>",
+          "roles": []
+        },
+        {
+          "id": "01a13177-e6cf-7477-90dc-690ac3b04b5f",
+          "hidden": false,
+          "company": "Nexttech",
+          "position": "Head of Mobile Engineering",
+          "location": "Cluj-Napoca, Romania / Nuremberg, Germany",
+          "period": "Apr 2019 – Jun 2025",
+          "dates": {
+            "start": "2019-04",
+            "end": "2025-06",
+            "present": false
+          },
+          "website": {
+            "url": "https://www.nexttech.ro",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<p></p>",
+          "roles": [
+            {
+              "id": "01a131b5-5e5f-7442-aadc-dbbb2b25c15e",
+              "position": "Head of Mobile Engineering",
+              "period": "Apr 2020 – Jun 2025",
+              "dates": {
+                "start": "2020-04",
+                "end": "2025-06",
+                "present": false
+              },
+              "description": "<p data-resume-whitespace=\"preserve\">Built the Mobile Department from the ground up in the banking and trading sector, a highly constrained environment that demands sustained focus, collaboration, and proficiency.</p><ul><li><p data-resume-whitespace=\"preserve\">Led the Mobile Department, growing it to 34 developers across Android and iOS.</p></li><li><p data-resume-whitespace=\"preserve\">Created a leadership structure of 5 team leads.</p></li><li><p data-resume-whitespace=\"preserve\">Owned recruitment, career development, and performance management.</p></li><li><p data-resume-whitespace=\"preserve\">Defined and executed the Mobile Department strategy across the Android and iOS teams.</p></li><li><p data-resume-whitespace=\"preserve\">Planned the budget and allocated resources.</p></li><li><p data-resume-whitespace=\"preserve\">Established and strengthened cross-department collaboration beyond individual projects, such as a general backend-to-mobile handover and performance and career management refined with People &amp; Culture.</p></li><li><p data-resume-whitespace=\"preserve\">Launched and ran 2 internship programs, keeping 6 of 8 interns as developers.</p></li><li><p data-resume-whitespace=\"preserve\">Designed the onboarding program, bringing new developers to team velocity in 2–3 sprints on average.</p></li><li><p data-resume-whitespace=\"preserve\">Owner of the UIKit Catalog, application theming, and Design to Developer handover process.</p></li><li><p data-resume-whitespace=\"preserve\">Created technical transition programs that enabled 8 developers to work on a sibling mobile platform or backend.</p></li><li><p data-resume-whitespace=\"preserve\">Ran monthly technical sessions on Mobile Engineering, and, in the final 2 years, company-wide sessions on AI toolsets.</p></li><li><p data-resume-whitespace=\"preserve\">Designed the Mobile Department's proficiency framework, focused on digital footprint, effort and impact visibility, information transparency, effective communication, and objective assessments.</p></li><li><p data-resume-whitespace=\"preserve\">Advised on company-wide strategic and organizational decisions.</p></li></ul>"
+            },
+            {
+              "id": "01a131b9-e74b-7797-bd7e-887048dae857",
+              "position": "Delivery Manager",
+              "period": "Sep 2019 – Jun 2025",
+              "dates": {
+                "start": "2019-09",
+                "end": "2025-06",
+                "present": false
+              },
+              "description": "<p data-resume-whitespace=\"preserve\">Owned delivery quality and timelines of 34 specialists, for 50+ major features across more than 1 million lines of proprietary code.</p><ul><li><p data-resume-whitespace=\"preserve\">Oversaw delivery across multiple banking and trading mobile projects, where the department supplied more than 80% of the mobile development capacity.</p></li><li><p data-resume-whitespace=\"preserve\">Contributed to strategic planning and stakeholder discussions, identifying needs and proposing solutions.</p></li><li><p data-resume-whitespace=\"preserve\">Advised on overall project team structure, resource allocation, and delivery planning.</p></li><li><p data-resume-whitespace=\"preserve\">Anticipated and mitigated delivery risks, resolving organizational, technical, and product-related blockers to avoid major delays.</p></li><li><p data-resume-whitespace=\"preserve\">Organized workshops, focus groups, and external support initiatives to address potential blockers and capability gaps.</p></li><li><p data-resume-whitespace=\"preserve\">Monitored partner satisfaction, identified areas for improvement, and strengthened collaboration through detailed reporting and reallocating expertise where needed.</p></li><li><p data-resume-whitespace=\"preserve\">Monitored team motivation and countered demotivating factors through coaching sessions, protected focus time, and rotation strategies.</p></li><li><p data-resume-whitespace=\"preserve\">Set up communication channels as needed and kept information flowing quickly across Mobile, Product, Services, Content, UI/UX, Business, Compliance, DevOps, and Security teams, on projects with 40+ mobile developers and 100+ contributors.</p></li><li><p data-resume-whitespace=\"preserve\">Delivered major project objectives consistently on schedule, with no significant delays or quality issues, earning positive feedback from business stakeholders and end users.</p></li></ul>"
+            },
+            {
+              "id": "01a131b4-bace-756e-aae5-60ab762b79c1",
+              "position": "Lead Mobile Engineer",
+              "period": "Apr 2019 – Jun 2025",
+              "dates": {
+                "start": "2019-04",
+                "end": "2025-06",
+                "present": false
+              },
+              "description": "<p data-resume-whitespace=\"preserve\">Held the lead contributor role on banking and trading apps currently used by 1.5M+ people.</p><ul><li><p data-resume-whitespace=\"preserve\">Led the transition from a legacy codebase to a modern mobile architecture, extending existing features while introducing new technologies, industry-standard capabilities, and development practices: a Swift 5.5-only codebase with SwiftUI, Combine, and partial Swift Testing adoption on iOS; Kotlin 2.0, Jetpack Compose, and Coroutines on Android; and MVVM+C+I as the structural feature pattern on both.</p></li><li><p data-resume-whitespace=\"preserve\">Led the architecture, iOS development, and migration strategy for the complete replacement and extension of the Consorsbank Mobile App, from vision to release; it launched with around 700k users and reached 1.2 million within a year.</p></li><li><p data-resume-whitespace=\"preserve\">Designed and coordinated project structures, modularization strategies (n-tier, domain-driven), dependency management, and structural patterns to maximize development efficiency, future reusability, and AI readiness.</p></li><li><p data-resume-whitespace=\"preserve\">Coordinated development processes, quality standards, security guidelines, CI/CD streams (GitLab CI/CD, Jenkins, Fastlane), design-to-development handover, and feature technical templates.</p></li><li><p data-resume-whitespace=\"preserve\">Created POCs for planned features, such as cryptography synchronization on all 3 platforms, using Docker containers to isolate future backend modules.</p></li><li><p data-resume-whitespace=\"preserve\">Contributed to information architecture and cross-platform feature parity initiatives.</p></li><li><p data-resume-whitespace=\"preserve\">Led the core team that designed and implemented critical features: user migration, client onboarding, authentication, authorization, and transactions (PSD2/SCA).</p></li><li><p data-resume-whitespace=\"preserve\">Contributed to the business direction of multiple features, drawing on mobile ecosystem knowledge (OS specifics, trends, specific UX) and banking/trading particularities.</p></li><li><p data-resume-whitespace=\"preserve\">Anticipated and resolved operational and technical bottlenecks, such as development environment instability, through mocking strategies and advanced troubleshooting.</p></li></ul><ul><li><p data-resume-whitespace=\"preserve\">Consulted on the application replacement, app store rollout, and release activities: code freezes, feature flag strategies, UAT, SIT, hypercare periods, and hotfix scope and content.</p></li><li><p data-resume-whitespace=\"preserve\">Added in-app health-check tools: complex logging modules, user-facing error codes, app consumption metrics, technical analytics, remote troubleshooting. These efforts minimised the number of production issues and ensure a 98% crash-free sessions, mean time to detection of 24h, mean time to resolution: 48h.</p></li><li><p data-resume-whitespace=\"preserve\">Ensured the quality gate and technical audit validation by using automated checks on dev side checks (IDE, Linters), CI/CD checks (Sonar, MASVS automated checks), Pen-testing (MobSF).</p></li></ul>"
+            }
+          ]
+        },
+        {
+          "id": "01a131bb-b3a6-75a5-a36d-b9dc7de69655",
+          "hidden": false,
+          "company": "BNP Paribas Personal Investors",
+          "position": "Technical Lead",
+          "location": "Nuremberg, Bavaria, Germany",
+          "period": "Feb 2016 – Apr 2019",
+          "dates": {
+            "start": "2016-02",
+            "end": "2019-04",
+            "present": false
+          },
+          "website": {
+            "url": "https://www.consorsbank.de/home",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<p data-resume-whitespace=\"preserve\"></p>",
+          "roles": [
+            {
+              "id": "01a131bd-f524-7794-9841-5facfd05b554",
+              "position": "Technical Lead",
+              "period": "Sep 2016 – Apr 2019",
+              "dates": {
+                "start": "2016-09",
+                "end": "2019-04",
+                "present": false
+              },
+              "description": "<ul><li><p data-resume-whitespace=\"preserve\">Led a team of 6 iOS developers, owning task management and technical decisions.</p></li><li><p data-resume-whitespace=\"preserve\">Migrated the codebase from SVN to Git, set up branch management, and ran Git training sessions.</p></li><li><p data-resume-whitespace=\"preserve\">Introduced the code review process (via Bitbucket and GitLab).</p></li><li><p data-resume-whitespace=\"preserve\">Wrote development guidelines (Confluence and Markdown) and code samples (Xcode Templates).</p></li><li><p data-resume-whitespace=\"preserve\">Ran training sessions and mentored developers.</p></li><li><p data-resume-whitespace=\"preserve\">Introduced Swift, CocoaPods, and Carthage into mobile development.</p></li><li><p data-resume-whitespace=\"preserve\">Standardized and expanded unit testing, taking 8 code modules from no code coverage to 80% in critical areas.</p></li><li><p data-resume-whitespace=\"preserve\">Designed client-side features and the overall architecture.</p></li><li><p data-resume-whitespace=\"preserve\">Improved delivery output by adding automated delivery docs and API integrity checks.</p></li><li><p data-resume-whitespace=\"preserve\">Contributed to release management.</p></li><li><p data-resume-whitespace=\"preserve\">Supported customer integration of the B2B libraries for 3 banks: BNL, BNP BDDF, and Fortis.</p></li><li><p data-resume-whitespace=\"preserve\">Improved the SDLC, raised team productivity by enforcing templates (ticketing, PRD, tech docs, CMS handoff, PRs).</p></li><li><p data-resume-whitespace=\"preserve\">Worked with the Android technical lead, extending technical influence to the 6-developer Android team.</p></li><li><p data-resume-whitespace=\"preserve\">Evaluated iOS developers and interviewed 10–20 candidates, 4 of whom were hired.</p></li><li><p data-resume-whitespace=\"preserve\">Piloted industry standards, new internal tools, OS integrations within apps, POCs, and hackathons.</p></li></ul>"
+            },
+            {
+              "id": "01a131be-d07b-76e1-b7f1-136435fb3c64",
+              "position": "Senior iOS Developer",
+              "period": "Feb 2016 – Apr 2019",
+              "dates": {
+                "start": "2016-02",
+                "end": "2019-04",
+                "present": false
+              },
+              "description": "<ul><li><p data-resume-whitespace=\"preserve\">Developed a suite of customer-facing (B2B) iOS libraries.</p></li><li><p data-resume-whitespace=\"preserve\">Built mobile services for the banking and financial sector.</p></li><li><p data-resume-whitespace=\"preserve\">Created reusable UI components (deliverable UI frameworks).</p></li><li><p data-resume-whitespace=\"preserve\">Designed APIs for integration teams.</p></li></ul><ul><li><p data-resume-whitespace=\"preserve\">Enhanced a banking and trading app (Consorsbank) with around 600k users, implementing major features:</p><ul><li><p data-resume-whitespace=\"preserve\">Card management.</p></li><li><p data-resume-whitespace=\"preserve\">Apple Pay integration (card provisioning and validation, Wallet and PassKit integration).</p></li><li><p data-resume-whitespace=\"preserve\">Security features (privacy screen blockers, data encryption, secure user sessions, transition to secure stores).</p></li></ul></li></ul>"
+            }
+          ]
+        },
+        {
+          "id": "01a1f60d-117c-766f-924d-f6ad0a512512",
+          "hidden": false,
+          "company": "iGama Apps",
+          "position": "Software Engineer & Co-founder",
+          "location": "Cluj-Napoca, Romania",
+          "period": "Dec 2015 – Apr 2017",
+          "dates": {
+            "start": "2015-12",
+            "end": "2017-04",
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<p data-resume-whitespace=\"preserve\">Added a cornerstone to a small but energetic mobile development studio.</p><p data-resume-whitespace=\"preserve\">Combined the roles of software engineer, technical advisor on internal projects, and co-administrator.</p>",
+          "roles": []
+        },
+        {
+          "id": "01a131c2-0fea-760a-a95f-2a470337c33d",
+          "hidden": false,
+          "company": "Garmin",
+          "position": "Senior iOS Developer",
+          "location": "Cluj-Napoca, Romania",
+          "period": "Sep 2013 – Feb 2016",
+          "dates": {
+            "start": "2013-09",
+            "end": "2016-02",
+            "present": false
+          },
+          "website": {
+            "url": "https://connect.garmin.com",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<p data-resume-whitespace=\"preserve\">Worked mainly on Garmin Connect™ Mobile (GCM) in a team of 8.</p><ul><li><p data-resume-whitespace=\"preserve\">Released GCM 2.0 as planned, with a new design and many new features, earning positive feedback and a significant increase in the user base.</p></li><li><p data-resume-whitespace=\"preserve\">Rewrote around 70% of the app for 2.0, most of which still forms the backbone of the app.</p></li><li><p data-resume-whitespace=\"preserve\">Restructured the UI in a major rebuild, along with critical areas like the networking and business layers.</p></li><li><p data-resume-whitespace=\"preserve\">Designed and developed new features, binding client-server, and wrote technical design docs used by both iOS and Android.</p></li><li><p data-resume-whitespace=\"preserve\">Coordinated the work of 4 iOS developers.</p></li><li><p data-resume-whitespace=\"preserve\">Drove cross-team collaboration with multiple iOS teams around the world and across departments (Android, Backend, Design, Product).</p></li><li><p data-resume-whitespace=\"preserve\">Improved the CI with linters, automation, hooks, and Gerrit extensions.</p></li><li><p data-resume-whitespace=\"preserve\">Developed mostly in Objective-C, using C/C++ for extensions and maintenance in some modules.</p></li></ul><p data-resume-whitespace=\"preserve\">Technologies: Gerrit, JIRA, Xcode toolset, Fabric, Jenkins, C/C++, Objective-C.</p><p data-resume-whitespace=\"preserve\">Mobile architectures: MVVM, MVP.</p>",
+          "roles": []
+        },
+        {
+          "id": "01a131c4-54db-77bd-a2b3-f2b54f97bbe9",
+          "hidden": false,
+          "company": "MoSync AB",
+          "position": "Mobile Software Developer",
+          "location": "Cluj-Napoca, Romania / Stockholm, Sweden",
+          "period": "Oct 2012 – Nov 2013",
+          "dates": {
+            "start": "2012-10",
+            "end": "2013-11",
+            "present": false
+          },
+          "website": {
+            "url": "https://en.wikipedia.org/wiki/MoSync",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<p data-resume-whitespace=\"preserve\">Worked in a team of 12 developers on the MoSync SDK, a code library for building cross-platform mobile apps.</p><ul><li><p data-resume-whitespace=\"preserve\">Focused on iOS development and contributed features on Symbian, Android, and Windows Phone.</p></li><li><p data-resume-whitespace=\"preserve\">Added SDK APIs in the C++ wrapper libraries for camera, streaming, UI transitions, location, and more.</p></li><li><p data-resume-whitespace=\"preserve\">Supported the MoSync community by answering forum questions and writing tutorials or sample apps.</p></li><li><p data-resume-whitespace=\"preserve\">Worked in Scrum, stepping in as Scrum Master for several cycles.</p></li></ul><p data-resume-whitespace=\"preserve\">Technologies: C/C++, Objective-C, Java, C#, Ruby, Python, Git, JIRA</p>",
+          "roles": []
+        },
+        {
+          "id": "01a131c9-8090-7406-8b94-2ad5aaf2b46e",
+          "hidden": false,
+          "company": "Garmin",
+          "position": "C/C++ Developer",
+          "location": "Cluj-Napoca, Romania / Stuttgart, Germany",
+          "period": "Oct 2011 – Dec 2012",
+          "dates": {
+            "start": "2011-10",
+            "end": "2012-12",
+            "present": false
+          },
+          "website": {
+            "url": "https://www.garmin.com/ro-RO/",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p data-resume-whitespace=\"preserve\">Developed and maintained performance measurement tools for an automotive navigation application (C/C++ on Windows Embedded CE); identified and fixed performance issues, cutting rerouting time in specific scenarios from 20+ seconds to 4 (6-month project, team of 3).</p></li><li><p data-resume-whitespace=\"preserve\">Developed and maintained a navigation app on the bada mobile platform (6-month project, team of 6):</p><ul><li><p data-resume-whitespace=\"preserve\">Built and refactored lifecycle event handling.</p></li><li><p data-resume-whitespace=\"preserve\">Worked on client data persistence.</p></li><li><p data-resume-whitespace=\"preserve\">Refactored deprecated APIs.</p></li><li><p data-resume-whitespace=\"preserve\">Took part in the defect management process.</p></li><li><p data-resume-whitespace=\"preserve\">Applied Agile methodologies in all development phases.</p></li></ul></li></ul><p data-resume-whitespace=\"preserve\">Technologies: bada C, C/C++, Boost, Git, Gerrit, JIRA, QC, Perforce, Bugzilla, IceScrum.</p>",
+          "roles": []
+        },
+        {
+          "id": "01a131ca-8907-75f2-943d-d76d8c036816",
+          "hidden": false,
+          "company": "Neusoft Mobile Solutions",
+          "position": "Mobile Software Developer",
+          "location": "Cluj-Napoca, Romania",
+          "period": "Mar 2009 – Oct 2011",
+          "dates": {
+            "start": "2009-03",
+            "end": "2011-10",
+            "present": false
+          },
+          "website": {
+            "url": "https://www.neusoft.ro",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<p data-resume-whitespace=\"preserve\">Developed and maintained apps for mobile platforms (Symbian, iOS) across 3 successive teams.</p><ul><li><p data-resume-whitespace=\"preserve\">Worked on Nokia embedded applications (Ovi Suite) for Symbian OS, using the Symbian C++ SDK with Web Embedding, in a team of 6–8.</p></li><li><p data-resume-whitespace=\"preserve\">Built a proprietary Neusoft mobile app that extended automobile functionality, from the initial phase through release, using the C++-based Qt SDK for cross-platform development, in a Scrum team of 4–5.</p></li><li><p data-resume-whitespace=\"preserve\">Took on the Scrum Master role for that team and advised the Product Owner.</p></li><li><p data-resume-whitespace=\"preserve\">Developed 3 iOS apps and released 2, either as proprietary Neusoft products or for partners, using the iOS SDK (Apple ecosystem), in a team of 4.</p></li></ul><p data-resume-whitespace=\"preserve\">Technologies: Symbian C++, Qt framework, Objective-C (iOS toolset), JavaScript.</p>",
+          "roles": []
+        },
+        {
+          "id": "01a131cc-9767-724a-ac43-8bc0bca783f9",
+          "hidden": false,
+          "company": "Xoomworks Ltd",
+          "position": "Assistant Programmer",
+          "location": "Cluj-Napoca, Romania",
+          "period": "Jul 2008 – Jan 2009",
+          "dates": {
+            "start": "2008-07",
+            "end": "2009-01",
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p data-resume-whitespace=\"preserve\">Developed and maintained an internal ASP.NET time-sheet web app used by 20+ people.</p></li><li><p data-resume-whitespace=\"preserve\">Took part in analysis, design, and implementation, in a team of 1 senior coordinator and 2 interns.</p></li></ul>",
+          "roles": []
+        }
+      ]
+    },
+    "education": {
+      "title": "",
+      "icon": "graduation-cap",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "01a131d1-316f-70a2-9c52-92b8584be0ed",
+          "hidden": false,
+          "school": "Technical University of Cluj-Napoca",
+          "degree": "Master of Science (MS)",
+          "area": "Artificial Intelligence",
+          "grade": "",
+          "location": "Cluj-Napoca, Romania",
+          "period": "Oct 2021 – Jul 2023",
+          "dates": {
+            "start": "2021-10",
+            "end": "2023-07",
+            "present": false
+          },
+          "website": {
+            "url": "https://arxiv.org/abs/2308.04736",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<p data-resume-whitespace=\"preserve\">Thesis on the evolution of LLMs: outlines how a GPT-2 model was created and trained on mobile-specific datasets, presents a case study on applying such models to industry-specific tasks, and discusses their implications for the industry's future.</p>"
+        },
+        {
+          "id": "01a131ce-ccca-76ae-badb-bc3d99baa35a",
+          "hidden": false,
+          "school": "Babeș-Bolyai University",
+          "degree": "Bachelor of Science (BSc)",
+          "area": "Computer Science",
+          "grade": "",
+          "location": "Cluj-Napoca, Romania",
+          "period": "Oct 2006 – Jul 2009",
+          "dates": {
+            "start": "2006-10",
+            "end": "2009-07",
+            "present": false
+          },
+          "website": {
+            "url": "https://www.cs.ubbcluj.ro/en/",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<p data-resume-whitespace=\"preserve\">Thesis: Concurrency in Distributed Database Systems.</p>"
+        }
+      ]
+    },
+    "projects": {
+      "title": "",
+      "icon": "code-simple",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "skills": {
+      "title": "",
+      "icon": "compass-tool",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "01a131e2-60ba-702d-8b53-f23399661d67",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Programming Languages / Technologies",
+          "proficiency": "Swift, Objective-C, Kotlin, Python, Bash, C/C++, Java, TypeScript, JavaScript, Rust, KMP",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "01a13f09-8bd9-7621-a33b-f8b5b4f41755",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Data / Query / Markup Languages",
+          "proficiency": "JSON, XML, YAML, SQL, GraphQL, Protocol Buffers, Markdown, HTML, CSS",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "01a131e3-3c26-743c-b80a-3829f5140ee8",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Databases",
+          "proficiency": "SQLite, Core Data, CloudKit, Firebase Suite, MySQL, PostgreSQL, MongoDB",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "01a131e3-52fb-7012-bb5d-d969219fa144",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "CI/CD & Containers",
+          "proficiency": "GitLab CI/CD, GitHub Actions, Jenkins, Fastlane, Cloudflare Workers, Docker",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "01a131f0-3d37-711e-b6f6-7b3e6de7f4de",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Frontends / Design Systems & Tools",
+          "proficiency": "UIKit, SwiftUI, Compose, React, Qt, Apple Human Interface Guidelines, Material Design, WCAG2Mobile, Figma",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "01a13f21-3558-761e-803e-f64d57787bbd",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Security",
+          "proficiency": "OWASP/MASVS, Secure Enclaves, Rooting Detection, Device Binding, Biometrics, Identity Pinning, PSD2/SCA, DPANs",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "01a1f5e3-342a-7ca8-9f19-4e83fb6ffc8c",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Reactive Programming",
+          "proficiency": "RxSwift, Combine, Coroutines",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "01a131e3-b550-714d-9e58-1ebb2a7e07ac",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "AI & Machine Learning",
+          "proficiency": "Coding Agents, MCP, Agentic Skills, Context Engineering, LLM-MAS, RAG, TensorFlow, CUDA, PyTorch",
+          "level": 0,
+          "keywords": []
+        }
+      ],
+      "keywordLayout": "inline",
+      "layout": "default"
+    },
+    "languages": {
+      "title": "",
+      "icon": "translate",
+      "columns": 3,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "01a14565-b0c7-72ab-bda1-4d69e9fc75db",
+          "hidden": false,
+          "language": "English",
+          "fluency": "C2",
+          "level": 0
+        },
+        {
+          "id": "01a14566-1b38-7225-aba1-3857d56097d3",
+          "hidden": false,
+          "language": "German",
+          "fluency": "B1",
+          "level": 0
+        },
+        {
+          "id": "01a14566-3704-75cf-b71a-3d8efb1a4f7a",
+          "hidden": false,
+          "language": "Romanian",
+          "fluency": "Native",
+          "level": 0
+        }
+      ]
+    },
+    "interests": {
+      "title": "",
+      "icon": "football",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "awards": {
+      "title": "",
+      "icon": "trophy",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "certifications": {
+      "title": "",
+      "icon": "certificate",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "publications": {
+      "title": "",
+      "icon": "books",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "01a131db-e3de-71ba-8211-5cdae9a849ab",
+          "hidden": false,
+          "title": "Case Study: Using AI-Assisted Code Generation In Mobile Teams",
+          "publisher": "arXiv",
+          "date": "Jul 2023",
+          "dates": {
+            "start": "2023-07",
+            "end": null,
+            "present": false
+          },
+          "website": {
+            "url": "https://arxiv.org/abs/2308.04736",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<p data-resume-whitespace=\"preserve\"><span style=\"color: rgb(0, 0, 0);\">Evaluates the performance of AI-assisted programming in mobile development teams working in native languages such as Kotlin and Swift.</span></p>"
+        }
+      ]
+    },
+    "volunteer": {
+      "title": "",
+      "icon": "hand-heart",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "references": {
+      "title": "",
+      "icon": "phone",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    }
+  },
+  "customSections": [],
+  "metadata": {
+    "template": "lapras",
+    "layout": {
+      "sidebarWidth": 35,
+      "pages": [
+        {
+          "fullWidth": false,
+          "main": [
+            "summary",
+            "experience",
+            "skills",
+            "education",
+            "projects",
+            "volunteer",
+            "references"
+          ],
+          "sidebar": [
+            "profiles",
+            "certifications",
+            "awards",
+            "interests",
+            "publications",
+            "languages"
+          ]
+        }
+      ]
+    },
+    "page": {
+      "gapX": 4,
+      "gapY": 6,
+      "marginX": 14,
+      "marginY": 12,
+      "format": "a4",
+      "locale": "en-US",
+      "dateFormat": "short",
+      "hideLinkUnderline": false,
+      "hideIcons": false,
+      "hideSectionIcons": true
+    },
+    "design": {
+      "level": {
+        "icon": "star",
+        "type": "circle"
+      },
+      "colors": {
+        "primary": "rgba(220, 38, 38, 1)",
+        "text": "rgba(0, 0, 0, 1)",
+        "background": "rgba(255, 255, 255, 1)"
+      }
+    },
+    "typography": {
+      "body": {
+        "fontFamily": "IBM Plex Serif",
+        "fontWeights": [
+          "400",
+          "500"
+        ],
+        "fontSize": 10,
+        "lineHeight": 1.5
+      },
+      "heading": {
+        "fontFamily": "IBM Plex Serif",
+        "fontWeights": [
+          "600"
+        ],
+        "fontSize": 14,
+        "lineHeight": 1.5
+      }
+    },
+    "notes": "",
+    "styleRules": [],
+    "stylesheet": {
+      "mode": "semantic",
+      "source": {
+        "languageVersion": 1,
+        "text": ""
+      }
+    },
+    "web": {
+      "showCredit": true,
+      "css": ""
+    }
+  }
+}
