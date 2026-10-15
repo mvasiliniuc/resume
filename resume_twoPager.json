@@ -1,0 +1,582 @@
+{
+  "picture": {
+    "hidden": false,
+    "fit": "cover",
+    "url": "https://rxresu.me/api/uploads/01a130f9-1ad6-755d-851a-9f86923ee452/pictures/b0096d64-8557-4d1e-bd94-7832cacd726d.jpeg",
+    "size": 80,
+    "rotation": 0,
+    "aspectRatio": 1,
+    "borderRadius": 0,
+    "borderColor": "rgba(0, 0, 0, 0.5)",
+    "borderWidth": 0,
+    "shadowColor": "rgba(0, 0, 0, 0.5)",
+    "shadowWidth": 0
+  },
+  "basics": {
+    "name": "Mircea Vasiliniuc",
+    "headline": "Software Engineering Manager | Lead Mobile Engineer",
+    "email": "hello@mircea.app",
+    "phone": "+40745652950",
+    "location": "Valencia, Spain / Cluj-Napoca, Romania",
+    "website": {
+      "url": "https://mircea.app",
+      "label": "mircea.app"
+    },
+    "customFields": [
+      {
+        "id": "01a14569-5a07-7488-896f-6b9552dc462b",
+        "icon": "flag",
+        "text": "EN-C2, DE-B1",
+        "link": ""
+      },
+      {
+        "id": "01a1456a-be87-761b-8b12-4acd1050213a",
+        "icon": "link-simple",
+        "text": "Extended Resume",
+        "link": "https://github.com/mvasiliniuc/resume/blob/main/resume.pdf"
+      }
+    ]
+  },
+  "summary": {
+    "title": "",
+    "icon": "article",
+    "columns": 1,
+    "hidden": false,
+    "showHeading": true,
+    "keepTogether": false,
+    "startOnNewPage": false,
+    "content": "<p data-resume-whitespace=\"preserve\">A product oriented contributor, a software engineering manager and a long-time promoter of automation, from the early days of scripting to today's AI-driven workflows. My roles included department manager, delivery manager, lead mobile engineer, tech consultant, administrator, co-founder and mentor.</p><p data-resume-whitespace=\"preserve\">My latest major role involved building a department from the ground up, growing it to 34 specialists while delivering a suite of banking &amp; trading mobile apps reaching 1.2 million users. The department and its products were built on strong foundations, designed to support growth and be resilient to industry shifts.</p><p data-resume-whitespace=\"preserve\">What I am interested in:</p><ul><li><p data-resume-whitespace=\"preserve\">Digital transformation initiatives</p></li><li><p data-resume-whitespace=\"preserve\">Building / Leading highly specialised teams</p></li><li><p data-resume-whitespace=\"preserve\">Complex ecosystems, be it in technology, stakeholder management, operations or market dynamics</p></li><li><p data-resume-whitespace=\"preserve\">Designing automation while preserving human agency and system integrity / Harness Engineering</p></li></ul><p></p>"
+  },
+  "sections": {
+    "profiles": {
+      "title": "",
+      "icon": "messenger-logo",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "experience": {
+      "title": "",
+      "icon": "briefcase",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "01a130fd-74b4-77be-9dd3-4f8489c0570e",
+          "hidden": false,
+          "company": "iGama Apps",
+          "position": "Technical consultant",
+          "location": "Valencia, Spain",
+          "period": "Oct 2025 – Present",
+          "dates": {
+            "start": "2025-10",
+            "end": null,
+            "present": true
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<p data-resume-whitespace=\"preserve\"><span style=\"color: rgba(0, 0, 0, 0.9);\">• Create MCPs exposing regulations (e.g. PSD2) for banking/trading software development or mobile security guidelines (e.g. OWASP MASVS)</span><br><span style=\"color: rgba(0, 0, 0, 0.9);\">• Create templates for agentic safety execution gates</span><br><span style=\"color: rgba(0, 0, 0, 0.9);\">• Create agentic skills to support mobile development</span><br><span style=\"color: rgba(0, 0, 0, 0.9);\">• Consult on the technical recruitment of mobile developers</span></p>",
+          "roles": [
+            {
+              "id": "01a131b1-1ac7-7382-a9c7-724a1417731f",
+              "position": "",
+              "period": "",
+              "dates": {
+                "start": null,
+                "end": null,
+                "present": false
+              },
+              "description": ""
+            }
+          ]
+        },
+        {
+          "id": "01a13177-e6cf-7477-90dc-690ac3b04b5f",
+          "hidden": false,
+          "company": "Nexttech",
+          "position": "Head of Mobile Engineering",
+          "location": "Cluj-Napoca, Romania / Nuremberg, Germany",
+          "period": "Apr 2019 – Jul 2025",
+          "dates": {
+            "start": "2019-04",
+            "end": "2025-07",
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p data-resume-whitespace=\"preserve\">I was responsible for building, leading and representing the Mobile Department, consisting of 34 mobile devs</p></li><li><p data-resume-whitespace=\"preserve\">Lead tech contributor on major banking/trading projects, across development, organizational, and product layers</p></li><li><p data-resume-whitespace=\"preserve\">Oversaw delivery across multiple banking and trading mobile projects</p></li></ul><p></p>",
+          "roles": [
+            {
+              "id": "01a131b5-5e5f-7442-aadc-dbbb2b25c15e",
+              "position": "Head of Mobile Engineering",
+              "period": "",
+              "dates": {
+                "start": null,
+                "end": null,
+                "present": false
+              },
+              "description": "<p data-resume-whitespace=\"preserve\"></p>"
+            }
+          ]
+        },
+        {
+          "id": "01a131bb-b3a6-75a5-a36d-b9dc7de69655",
+          "hidden": false,
+          "company": "BNP Paribas Personal Investors",
+          "position": "Technical Consultant",
+          "location": "Nuremberg, Germany",
+          "period": "Feb 2016 – Apr 2019",
+          "dates": {
+            "start": "2016-02",
+            "end": "2019-04",
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p data-resume-whitespace=\"preserve\">Lead developer in the construction of a suite of iOS customer-facing (B2B) libraries for banking/trading</p></li><li><p data-resume-whitespace=\"preserve\">Lead developer for Consorsbank Banking App  (DE) in area like Card Management, Apple Pay, User Data Security</p></li><li><p data-resume-whitespace=\"preserve\">Led code management (Git migration, branching, training), code reviews, development guidelines, unit testing standards, client-side architecture, docs, release management and customer integration for the mobile team</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "01a131c2-0fea-760a-a95f-2a470337c33d",
+          "hidden": false,
+          "company": "Garmin",
+          "position": "Senior iOS Developer",
+          "location": "Cluj-Napoca, Romania",
+          "period": "Sep 2013 – Feb 2016",
+          "dates": {
+            "start": "2013-09",
+            "end": "2016-02",
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p data-resume-whitespace=\"preserve\">Mostly involved in the development of Garmin Connect™ Mobile v. 2.x. Role also involved coordinating other iOS developers. Technologies: Gerrit, JIRA, Xcode SDK, Fabric, Jenkins, C/C++, Obj-C. Mobile architectures: MVVM, MVP</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "01a131c4-54db-77bd-a2b3-f2b54f97bbe9",
+          "hidden": false,
+          "company": "MoSync AB",
+          "position": "Mobile Software Developer",
+          "location": "Cluj-Napoca, Romania / Stockholm, Sweden",
+          "period": "Oct 2012 – Nov 2013",
+          "dates": {
+            "start": "2012-10",
+            "end": "2013-11",
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p data-resume-whitespace=\"preserve\">Developing and maintaining parts of the code library used for creating cross-platform mobile applications. Involved in  iOS,  Android, Symbian  and Windows Phone side. Worked with C\\C++, Obj-C, Java, C#, Ruby, Python.</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "01a131c9-8090-7406-8b94-2ad5aaf2b46e",
+          "hidden": false,
+          "company": "Garmin",
+          "position": "C/C++ Developer",
+          "location": "Cluj-Napoca, Romania",
+          "period": "Oct 2011 – Dec 2012",
+          "dates": {
+            "start": "2011-10",
+            "end": "2012-12",
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p data-resume-whitespace=\"preserve\">Developed a navigation based application for the bada OS mobile platform</p></li><li><p data-resume-whitespace=\"preserve\">Developed performance measurement tools and identifying/solving performance issues for an automotive app</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "01a131ca-8907-75f2-943d-d76d8c036816",
+          "hidden": false,
+          "company": "Neusoft Mobile Solutions",
+          "position": "Mobile Software Developer",
+          "location": "Cluj Napoca, Romania",
+          "period": "Mar 2009 – Oct 2011",
+          "dates": {
+            "start": "2009-03",
+            "end": "2011-10",
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p data-resume-whitespace=\"preserve\">Developed and maintained Nokia Embedded Applications (Ovi Suite), which are Symbian OS applications. </p></li></ul><ul><li><p data-resume-whitespace=\"preserve\">Developed Mobile Application for automotive crash detection using Qt SDK (C++)</p></li><li><p data-resume-whitespace=\"preserve\">Developed and released multiple native iOS apps, either proprietary product of Neusoft or for other partners</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "01a131cc-9767-724a-ac43-8bc0bca783f9",
+          "hidden": false,
+          "company": "Xoomworks Ltd",
+          "position": "Assistant Programmer",
+          "location": "Cluj-Napoca, Romania",
+          "period": "Jul 2008 – Jan 2009",
+          "dates": {
+            "start": "2008-07",
+            "end": "2009-01",
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p data-resume-whitespace=\"preserve\">Developed a web application for time-sheets (using ASP.NET)</p></li></ul><p></p>",
+          "roles": []
+        }
+      ]
+    },
+    "education": {
+      "title": "",
+      "icon": "graduation-cap",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "01a131d1-316f-70a2-9c52-92b8584be0ed",
+          "hidden": false,
+          "school": "Technical University of Cluj Napoca",
+          "degree": "Master of Science - MS",
+          "area": "Artificial Intelligence",
+          "grade": "",
+          "location": "Cluj-Napoca, Romania",
+          "period": "Oct 2021 – Jul 2023",
+          "dates": {
+            "start": "2021-10",
+            "end": "2023-07",
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<p data-resume-whitespace=\"preserve\"></p>"
+        },
+        {
+          "id": "01a131ce-ccca-76ae-badb-bc3d99baa35a",
+          "hidden": false,
+          "school": "Babeș-Bolyai University",
+          "degree": "Bachelor",
+          "area": "Computer Science",
+          "grade": "",
+          "location": "Cluj-Napoca, Romania",
+          "period": "Oct 2006 – Jul 2009",
+          "dates": {
+            "start": "2006-10",
+            "end": "2009-07",
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": ""
+        }
+      ]
+    },
+    "projects": {
+      "title": "",
+      "icon": "code-simple",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "skills": {
+      "title": "",
+      "icon": "compass-tool",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "01a131e2-60ba-702d-8b53-f23399661d67",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Programming Languages",
+          "proficiency": "Swift, ObjC, Kotlin, Python, Bash, C/C++, Java, TypeScript, JavaScript, Rust",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "01a13f09-8bd9-7621-a33b-f8b5b4f41755",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Data/Query/Markup Languages",
+          "proficiency": "JSON, XML, YAML, SQL, GraphQL, proto, Markdown, html, CSS",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "01a131e3-3c26-743c-b80a-3829f5140ee8",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Databases",
+          "proficiency": "SQLite, CodeData, CloudKit, Firebase Suite, MySQL, PostgreSQL, MongoDB",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "01a131e3-52fb-7012-bb5d-d969219fa144",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "CI/CD",
+          "proficiency": "Gitlab CI/CD, Github Actions, Jenkins, Fastlane",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "01a131f0-3d37-711e-b6f6-7b3e6de7f4de",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Design Systems",
+          "proficiency": "Apple Human Interface Guidelines, Material Design, WCAG2Mobile",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "01a13f21-3558-761e-803e-f64d57787bbd",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Security",
+          "proficiency": "OWASP, MASVS, Secure Enclaves, Rooting, Device Binding, Biometrics, Pinning, MiFID II, PSD2/SCA, DPANs",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "01a131e3-b550-714d-9e58-1ebb2a7e07ac",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Applied AI",
+          "proficiency": "Coding Agents (Codex, Cursor, Claude, Mistral Vibe), MCP, Agentic Skills, Context Engineering, LLM-MAS, RAG",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "01a131e4-4516-7214-a169-d7dcd058a9c0",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Machine Learning",
+          "proficiency": "TensorFlow, CUDA, PyTorch",
+          "level": 0,
+          "keywords": []
+        }
+      ],
+      "keywordLayout": "inline",
+      "layout": "default"
+    },
+    "languages": {
+      "title": "",
+      "icon": "translate",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "interests": {
+      "title": "",
+      "icon": "football",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "awards": {
+      "title": "",
+      "icon": "trophy",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "certifications": {
+      "title": "",
+      "icon": "certificate",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "publications": {
+      "title": "",
+      "icon": "books",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "01a131db-e3de-71ba-8211-5cdae9a849ab",
+          "hidden": false,
+          "title": "Case Study: Using AI-Assisted Code Generation In Mobile Teams",
+          "publisher": "",
+          "date": "Jul 2023",
+          "dates": {
+            "start": "2023-07",
+            "end": null,
+            "present": false
+          },
+          "website": {
+            "url": "https://arxiv.org/abs/2308.04736",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<p data-resume-whitespace=\"preserve\"><span style=\"color: rgb(0, 0, 0);\">The aim of this study is to evaluate the performance of AI-assisted programming in native mobile development teams.</span></p>"
+        }
+      ]
+    },
+    "volunteer": {
+      "title": "",
+      "icon": "hand-heart",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "references": {
+      "title": "",
+      "icon": "phone",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    }
+  },
+  "customSections": [],
+  "metadata": {
+    "template": "lapras",
+    "layout": {
+      "sidebarWidth": 35,
+      "pages": [
+        {
+          "fullWidth": false,
+          "main": [
+            "profiles",
+            "summary",
+            "skills",
+            "experience",
+            "education",
+            "projects",
+            "volunteer",
+            "references"
+          ],
+          "sidebar": [
+            "certifications",
+            "awards",
+            "languages",
+            "interests",
+            "publications"
+          ]
+        }
+      ]
+    },
+    "page": {
+      "gapX": 4,
+      "gapY": 6,
+      "marginX": 14,
+      "marginY": 12,
+      "format": "a4",
+      "locale": "en-US",
+      "dateFormat": "short",
+      "hideLinkUnderline": false,
+      "hideIcons": false,
+      "hideSectionIcons": true
+    },
+    "design": {
+      "level": {
+        "icon": "star",
+        "type": "circle"
+      },
+      "colors": {
+        "primary": "rgba(220, 38, 38, 1)",
+        "text": "rgba(0, 0, 0, 1)",
+        "background": "rgba(255, 255, 255, 1)"
+      }
+    },
+    "typography": {
+      "body": {
+        "fontFamily": "IBM Plex Serif",
+        "fontWeights": [
+          "400",
+          "500"
+        ],
+        "fontSize": 10,
+        "lineHeight": 1.5
+      },
+      "heading": {
+        "fontFamily": "IBM Plex Serif",
+        "fontWeights": [
+          "600"
+        ],
+        "fontSize": 14,
+        "lineHeight": 1.5
+      }
+    },
+    "notes": "",
+    "styleRules": [],
+    "stylesheet": {
+      "mode": "semantic",
+      "source": {
+        "languageVersion": 1,
+        "text": ""
+      }
+    }
+  }
+}
